@@ -1,14 +1,17 @@
-body{background-clor:white
-    text-direction:inherit;
-    letter-spacing:normal;
-    margin:20px;
-      margin-style:solid;
-      margin-color:gray;
-    border:1px;
+body {
+    background-color: white;
+    letter-spacing: normal;
+    margin: 20px;
+    margin-sytle: solid;
+    margin-color: gray;
+    border: 1px;
     border-style: solid;
-    border-radius:10px;
-    padding:10px;
-    }
-    .date{font: size 30;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.date {
+    font: size 30;
     font-size-adjust: right;
-    padding:left; }
+    padding: left;
+}
